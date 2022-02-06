@@ -21,7 +21,7 @@ A modding tool for the PS3 Ratchet and Clank games + maybe a couple resistance g
 |---|---|
 | Resistance: Fall of Man | ❌ |
 | Ratchet & Clank (Future): Tools of Destruction | ❌ |
-| Ratchet & Clank (Future): Quest for Booty | ✅ |
+| Ratchet & Clank (Future): Quest for Booty | ❌ |
 | Resistance 2 | ✅ |
 | Ratchet & Clank (Future): A Crack in Time | ✅ |
 | Resistance 3 | ✅ |
