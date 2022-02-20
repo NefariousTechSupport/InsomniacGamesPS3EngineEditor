@@ -2,6 +2,8 @@
 
 A modding tool for the PS3 Ratchet and Clank games + maybe a couple resistance games idk
 
+See https://github.com/NefariousTechSupport/LombaxToes
+
 ## Usage
 
 * Extract your level_cached.psarc and level_uncached.psarc using a tool of your choice.
